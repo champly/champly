@@ -10,5 +10,5 @@
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champly&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champly&layout=compact&theme=gruvbox&exclude_repo=ebpf-learn-code" />
 </a>
