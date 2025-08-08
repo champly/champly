@@ -6,9 +6,9 @@
 - 💬 Ask me about anything [here](https://github.com/champly)
 
 <a>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=champly&show_icons=true&include_all_commits=true&theme=gruvbox" alt="ChamPly's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=champly&show_icons=true&include_all_commits=true&theme=gruvbox" alt="ChamPly's github stats" />
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=champly&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champly&layout=compact&theme=gruvbox" />
 </a>
